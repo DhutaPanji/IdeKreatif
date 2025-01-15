@@ -9,7 +9,7 @@
       </a>
     </div>
     <!-- /Logo -->
-    <h4 class="mb-2">Selamat datang di IdeKreatif! ✋🏻👀✋🏻</h4>
+    <h4 class="mb-2">Selamat datang di IdeKreatif!✋🏻👀✋🏻</h4>
     <form class="mb-3" action="login_auth.php" method="POST">
       <div class="mb-3">
         <label class="form-label">Username</label>
